@@ -3,3 +3,8 @@ ProjectSettings/
 Packages/
 Logs/
 Library/
+.vs/
+obj/
+Assembly*
+*.meta
+Unity-Game-Templates.sln
